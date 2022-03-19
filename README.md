@@ -1,9 +1,10 @@
 
+# Hi, I'm Henrique Delben 🖐️
 
-- 🔭 Atualmente trabalho na área de eventos com locação de equipamentos para efeitos especiais
-- 🌱 Estudando tecnologias Front-End entre outras coisas
-- 📫 Fale comigo através do meu instagram @rickdelben
-- ⚡ Amante de jogos e tecnologia
+- 🔭 Student on Software Analysis and Development at USCS - University of São Caetano do Sul
+- 🌱 Currently focusing on C, C# and C++ for applications development and front-end common technologies such as HTML, CSS and Javascript
+- 📫 Want to talk? Feel free to contact me! Get in touch with me on the instagram: @rickdelben
+- ⚡ Technology and Games lover
 <div align="center">
    
 <div>
@@ -12,10 +13,7 @@
 </div>
     
 <div> 
-    <a href="https://www.youtube.com/channel/UChW53nt2dEqvW5d0OKpvA5Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/rickdelben" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/scoutzzgod" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/3cz7tFZsfA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    <a href="https://music.youtube.com/channel/UChW53nt2dEqvW5d0OKpvA5Q" target="_blank"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/HenriqueDelben/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="mailto:hd.delben@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
