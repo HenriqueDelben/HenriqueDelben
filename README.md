@@ -2,8 +2,7 @@
 # Hi, I'm Henrique Delben 🖐️
 
 - 🔭 Student on Software Analysis and Development at USCS - University of São Caetano do Sul
-- 🌱 Currently focusing on C, C# and C++ for applications development and front-end common technologies such as HTML, CSS and Javascript
-- 📫 Want to talk? Feel free to contact me! Get in touch with me on the instagram: @rickdelben
+- 🌱 Currently focusing on Python Back-End Development with DjangoDB. Learning Data Structures and Algorithms with Python
 - ⚡ Technology and Games lover
 <div align="center">
    
