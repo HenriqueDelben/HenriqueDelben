@@ -17,7 +17,7 @@
 - JWT, JWS and JWE for stateless authentication implementation of a REST API
 
 **👷 What I'm currently working on:**
-- [cashew-api](https://github.com/CashewApp/cashew-api) - a complete solution for making and managing orders, products, stock and more for school cafeterias
+- [cashew-api](https://github.com/HenriqueDelben/cashew-api) - a complete solution for making and managing orders, products, stock and more for school cafeterias
 - [taskly](https://github.com/HenriqueDelben/taskly) - All in one task manager, habit tracker and time management mobile application
 
 ## 🌐 Socials:
